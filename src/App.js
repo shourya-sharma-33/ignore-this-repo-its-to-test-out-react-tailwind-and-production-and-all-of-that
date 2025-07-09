@@ -98,6 +98,8 @@ function App() {
         <div className="text-2xl mb-2">🕉️ हर हर महादेव 🕉️</div>
         <div>© {new Date().getFullYear()} पंडित शौर्य शर्मा जी - All Rights Reserved</div>
         <div className="text-sm mt-2">This is a joke just so u know  i was testing some things out ok :3❤️</div>
+        <div className="text-sm mt-2">
+          testing git update rn real time ok</div>
       </footer>
     </div>
   );
